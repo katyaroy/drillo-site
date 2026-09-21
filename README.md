@@ -1,4 +1,4 @@
-# Drillo — Language Drills
+# Drillo: Language Practice
 
 Support and privacy policy for the Drillo iOS and Android app.
 
